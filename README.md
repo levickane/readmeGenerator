@@ -33,6 +33,11 @@ None
 
 Part of this was built in collaboration with <a href='https://github.com/markdrecoll/' target="_blank">Mark Drecoll</a>
 
+## Badges
+
+![badges](https://img.shields.io/badge/Language-JavaScript-red)
+![badges](https://img.shields.io/badge/Environment-Node-yellow)
+
 ## Tests
 
     npm run test
