@@ -39,4 +39,4 @@ Part of this was built in collaboration with <a href='https://github.com/markdre
 
 ## Questions
 
-If you have any questions, reach out to me through my <a href="www.oneleggedlevi.com" target="_blank">Website</a>.
+If you have any questions, reach out to me through my www.oneleggedlevi.com .
