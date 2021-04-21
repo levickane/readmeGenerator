@@ -19,7 +19,11 @@ In order to run the program, you'll first have to fork the repo. In the terminal
 
 ## Usage
 
-While in the project's root folder, in the terminal, you'll type `node index.js` and you'll be prompted with a series of questions for user input. The user's input is what will be generated to the new markdown file.
+While in the project's root folder, in the terminal, you'll type
+
+    node index.js
+
+and you'll be prompted with a series of questions for user input. The user's input is what will be generated to the new markdown file.
 
 ## License
 
@@ -27,6 +31,12 @@ None
 
 ## Contributing
 
-Part of this was built in collaboration with Mark
+Part of this was built in collaboration with <a href='https://github.com/markdrecoll/' target="_blank">Mark Drecoll</a>
 
-This program generates a quality professional looking markdown file. In the terminal, run `node index.js` to for a promp of a questions. Given the user's input, the program will generate a title, description for the repository, installation instrustions, usage, any liscenses necessary, a contributions section, any tests to be run, and questions that might be had.
+## Tests
+
+    npm run test
+
+## Questions
+
+If you have any questions, reach out to me through my <a href="www.oneleggedlevi.com" target="_blank">Website</a>.

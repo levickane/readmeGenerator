@@ -18,7 +18,8 @@ const questions = [
   {
     type: 'input',
     message: 'Installation: ',
-    name: 'installation'
+    name: 'installation',
+    default: 'npm i'
   },
   {
     type: 'input',
@@ -26,9 +27,10 @@ const questions = [
     name: 'usage'
   },
   {
-    type: 'input',
+    type: 'list',
     message: 'License: ',
-    name: 'license'
+    name: 'license',
+    choices: ['Apache2.0', 'MIT', 'None']
   },
   {
     type: 'input',
@@ -38,7 +40,8 @@ const questions = [
   {
     type: 'input',
     message: 'Tests: ',
-    name: 'tests'
+    name: 'tests',
+    default: 'npm run test'
   },
   {
     type: 'input',
