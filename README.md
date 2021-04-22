@@ -24,6 +24,7 @@ While in the project's root folder, in the terminal, you'll type
     node index.js
 
 and you'll be prompted with a series of questions for user input. The user's input is what will be generated to the new markdown file.
+![Video](./utils/ReadmeGen.gif)
 
 ## License
 
@@ -36,6 +37,7 @@ Part of this was built in collaboration with [Mark Drecoll](https://github.com/m
 ## Badges
 
 ![badges](https://img.shields.io/badge/Language-JavaScript-red)
+
 ![badges](https://img.shields.io/badge/Environment-Node-yellow)
 
 ## Tests
