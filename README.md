@@ -25,15 +25,13 @@ While in the project's root folder, in the terminal, you'll type
 
 and you'll be prompted with a series of questions for user input. The user's input is what will be generated to the new markdown file.
 
-<iframe src="https://drive.google.com/file/d/1MRaJG_nS7MmZpikrkDIMAVSGlLuUPQlE/preview" width="640" height="480"></iframe>
-
 ## License
 
 None
 
 ## Contributing
 
-Part of this was built in collaboration with <a href='https://github.com/markdrecoll/' target="_blank">Mark Drecoll</a>
+Part of this was built in collaboration with [Mark Drecoll](https://github.com/markdrecoll/)
 
 ## Badges
 
@@ -46,4 +44,4 @@ Part of this was built in collaboration with <a href='https://github.com/markdre
 
 ## Questions
 
-If you have any questions, reach out to me through my www.oneleggedlevi.com .
+If you have any questions, reach out to me through my [Github](www.github.com/levickane) .

@@ -50,7 +50,9 @@ ${renderLicenseSection(data.license)}
   ## Tests
   ${data.tests}
   ## Questions
-  ${data.questions}
+  If you have any questions, you can contact me through my [Github](www.github.com/${
+    data.questions
+  })
 
 `;
 }
