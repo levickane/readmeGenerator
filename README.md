@@ -25,6 +25,8 @@ While in the project's root folder, in the terminal, you'll type
 
 and you'll be prompted with a series of questions for user input. The user's input is what will be generated to the new markdown file.
 
+<iframe src="https://drive.google.com/file/d/1MRaJG_nS7MmZpikrkDIMAVSGlLuUPQlE/preview" width="640" height="480"></iframe>
+
 ## License
 
 None
