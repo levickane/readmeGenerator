@@ -23,7 +23,7 @@ const questions = [
   },
   {
     type: 'input',
-    message: 'Usage: ',
+    message: 'How is the program used?: ',
     name: 'usage'
   },
   {
@@ -45,7 +45,7 @@ const questions = [
   },
   {
     type: 'input',
-    message: 'Questions: ',
+    message: 'Enter Github username: ',
     name: 'questions'
   }
 ];
